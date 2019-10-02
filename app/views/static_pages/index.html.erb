@@ -1,5 +1,10 @@
 <div class = "intro">
   <h1>This is my Home App</h1>
   <h5>by</h5>
-  <h3>Enrique Cerna</h3>
+  <h2>Enrique Cerna</h2>
 </div>
+
+<br /><br />
+<%= link_to 'Click to add a country you want to visit!', new_country_path %>
+
+<h2>You should visit </h2><h1><%= @country.countries %></h1>
