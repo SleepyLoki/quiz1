@@ -1,24 +1,18 @@
-# README
+# Quiz #1 - Web Development Pipeline
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Build a new web application from scratch and make sure it satisfies the following criteria:
+- This should be a rails application, not a plain HTML page.
+- The web application has a page with static content on it.
+- The web application is hosted on Heroku.
+- The code for the application is hosted on GitHub.
+- There is a headline on the page of the application that is a non-black color.
 
-Things you may want to cover:
+# Quiz #2 - Setting up a Database
+Continue on the application you started in Quiz #1Link opens in new tab. In this lesson you'll expand on what you started.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Satisfy the following criteria:
+- Create a model, and database migration for something of your choosing.
+- Add the SimpleForm gem to your application.
+- Build a new form for the item.
+- Bonus (optional) When you press the submit button on the new form have it store the value in the database and show the item on the page.
